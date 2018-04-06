@@ -43,11 +43,11 @@ The first category could be selected with a "1", the next category with a "2", a
 
 Once you have selected a category, you can move up and down the links through the arrow keys. Alternatively you can use the "j" and "k" key.
 
-| Key Shortcut | Use |
---------------------------
-| 1-10 | Open a category |
-| j/k  | Move up and down through the links |
-| alt + enter | Focus the search bar |
+| Key Shortcut | Use                                |
+|--------------|------------------------------------|
+| 1-10         | Open a category                    |
+| j/k          | Move up and down through the links |
+| alt + enter  | Focus the search bar               |
 
 ## Credits ##
 
